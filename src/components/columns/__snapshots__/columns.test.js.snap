@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Columns /> component should render correctly 1`] = `
+<div
+  className="columns"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Columns /> component should support isCentered prop 1`] = `
+<div
+  className="columns is-centered"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;

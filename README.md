@@ -1,4 +1,4 @@
-# react-bulma
+# bulma-ui
 Bulma components for React
 
 ## TODO
@@ -94,3 +94,7 @@ Bulma components for React
 - [ ] PanelTabs
 - [ ] PanelBlock
 - [ ] Tabs
+
+## License
+
+[Apache License, Version 2.0](LICENSE.md) © [Thiago Santos](https://github.com/thiamsantos)

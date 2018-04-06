@@ -1,0 +1,83 @@
+{
+  "name": "bulma-ui",
+  "version": "1.0.0",
+  "description": "Bulma components for React",
+  "main": "dist/bulma-ui.js",
+  "umd:main": "dist/bulma-ui.umd.js",
+  "browser": "dist/bulma-ui.umd.js",
+  "module": "dist/bulma-ui.m.js",
+  "source": "src/index.js",
+  "scripts": {
+    "prelint": "prettier --write \"src/**/*.js\"",
+    "lint": "xo --fix",
+    "test": "npm run lint && npm run spec",
+    "spec": "jest",
+    "spec:watch": "npm run spec -- --watch",
+    "coverage": "npm run spec -- --coverage",
+    "coverage:html": "npm run coverage && http-server ./coverage/lcov-report -o",
+    "coveralls": "npm run coverage && cat coverage/lcov.info | coveralls",
+    "clean": "rimraf dist",
+    "build": "rollup -c",
+    "precommit": "npm test && npm run lint",
+    "prepublish": "npm run clean && npm test && npm run lint && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiamsantos/bulma-ui.git"
+  },
+  "keywords": [
+    "bulma",
+    "react",
+    "ui",
+    "components"
+  ],
+  "author": "Thiago Santos",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thiamsantos/bulma-ui/issues"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  },
+  "homepage": "https://github.com/thiamsantos/bulma-ui#readme",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.2.2",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "coveralls": "^3.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-xo-react": "^0.16.0",
+    "eslint-plugin-react": "^7.7.0",
+    "http-server": "^0.11.1",
+    "jest": "^22.4.3",
+    "prettier": "^1.11.1",
+    "react": "^16.3.1",
+    "react-test-renderer": "^16.3.1",
+    "rimraf": "^2.6.2",
+    "rollup": "^0.57.1",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-filesize": "^1.5.0",
+    "xo": "^0.20.3"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false,
+    "bracketSpacing": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "parser": "babel-eslint",
+    "space": true,
+    "semicolon": false,
+    "envs": [
+      "browser",
+      "jest"
+    ],
+    "extends": "xo-react"
+  }
+}
