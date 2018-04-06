@@ -7,6 +7,9 @@
   "browser": "dist/bulma-ui.umd.js",
   "module": "dist/bulma-ui.m.js",
   "source": "src/index.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prelint": "prettier --write \"src/**/*.js\"",
     "lint": "xo --fix",
