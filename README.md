@@ -1,5 +1,10 @@
 # bulma-ui
-Bulma components for React
+
+[![npm (scoped)](https://img.shields.io/npm/v/bulma-ui.svg)](https://www.npmjs.com/package/bulma-ui)
+[![Travis](https://img.shields.io/travis/thiamsantos/bulma-ui.svg)](https://travis-ci.org/thiamsantos/bulma-ui)
+[![Coveralls](https://img.shields.io/coveralls/thiamsantos/bulma-ui.svg)](https://coveralls.io/github/thiamsantos/bulma-ui?branch=master)
+
+> Bulma components for React
 
 ## TODO
 - [ ] Columns
