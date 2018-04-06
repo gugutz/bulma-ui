@@ -9,7 +9,8 @@ const Columns = ({
   isDesktop,
   isGapless,
   isMultiline,
-  gap
+  gap,
+  ...props
 }) => (
   <div
     className={classnames('columns', {
@@ -20,6 +21,7 @@ const Columns = ({
       'is-multiline': isMultiline,
       [`is-variable is-${gap}`]: gap !== null
     })}
+    {...props}
   >
     {children}
   </div>

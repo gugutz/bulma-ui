@@ -57,4 +57,16 @@ describe('<Columns /> component', () => {
       .toJSON()
     expect(tree).toMatchSnapshot()
   })
+
+  it('should accept other props', () => {
+    const tree = renderer
+      .create(
+        <Columns id="some-important-thing">
+          <div>Some content</div>
+        </Columns>
+      )
+      .toJSON()
+
+    expect(tree).toMatchSnapshot()
+  })
 })

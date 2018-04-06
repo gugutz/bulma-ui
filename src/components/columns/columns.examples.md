@@ -21,7 +21,7 @@ import {Columns} from 'bulma-ui'
 
 ```jsx
 <Columns isCentered>
-  <Column isHalf>Single column</Column>
+  <Column size="1/2">Single column</Column>
 </Columns>
 ```
 
@@ -54,9 +54,9 @@ If you only want columns on desktop upwards, just use the `isDesktop` prop on th
 
 ```jsx
 <Columns isMultiline>
-  <Column isHalf>First column</Column>
-  <Column isHalf>Second column</Column>
-  <Column isHalf>Third column</Column>
+  <Column size="1/2">First column</Column>
+  <Column size="1/2">Second column</Column>
+  <Column size="1/2">Third column</Column>
 </Columns>
 ```
 
@@ -76,9 +76,9 @@ You can combine it with the multiline columns.
 
 ```jsx
 <Columns isMultiline isGapless>
-  <Column isHalf>First column</Column>
-  <Column isHalf>Second column</Column>
-  <Column isHalf>Third column</Column>
+  <Column size="1/2">First column</Column>
+  <Column size="1/2">Second column</Column>
+  <Column size="1/2">Third column</Column>
 </Columns>
 ```
 

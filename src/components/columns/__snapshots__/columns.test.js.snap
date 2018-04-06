@@ -1,5 +1,16 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`<Columns /> component should accept other props 1`] = `
+<div
+  className="columns"
+  id="some-important-thing"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
 exports[`<Columns /> component should render correctly 1`] = `
 <div
   className="columns"

@@ -12,7 +12,7 @@ export default [
       babel({
         babelrc: false,
         plugins: ['external-helpers'],
-        presets: [['env', {modules: false}], 'react']
+        presets: [['env', {modules: false}], 'react', 'stage-0']
       }),
       filesize()
     ],

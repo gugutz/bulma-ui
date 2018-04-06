@@ -10,7 +10,1557 @@ exports[`<Column /> component should render correctly 1`] = `
 </div>
 `;
 
-exports[`<Column /> component should support isHalf prop 1`] = `
+exports[`<Column /> component should support desktopOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 1 1`] = `
+<div
+  className="column is-1-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 1/2 1`] = `
+<div
+  className="column is-half-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 2 1`] = `
+<div
+  className="column is-2-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 3 1`] = `
+<div
+  className="column is-3-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 4 1`] = `
+<div
+  className="column is-4-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 5 1`] = `
+<div
+  className="column is-5-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 6 1`] = `
+<div
+  className="column is-6-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 7 1`] = `
+<div
+  className="column is-7-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 8 1`] = `
+<div
+  className="column is-8-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 9 1`] = `
+<div
+  className="column is-9-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 10 1`] = `
+<div
+  className="column is-10-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with 11 1`] = `
+<div
+  className="column is-11-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with full 1`] = `
+<div
+  className="column is-full-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support desktopSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 1 1`] = `
+<div
+  className="column is-1-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 1/2 1`] = `
+<div
+  className="column is-half-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 2 1`] = `
+<div
+  className="column is-2-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 3 1`] = `
+<div
+  className="column is-3-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 4 1`] = `
+<div
+  className="column is-4-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 5 1`] = `
+<div
+  className="column is-5-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 6 1`] = `
+<div
+  className="column is-6-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 7 1`] = `
+<div
+  className="column is-7-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 8 1`] = `
+<div
+  className="column is-8-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 9 1`] = `
+<div
+  className="column is-9-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 10 1`] = `
+<div
+  className="column is-10-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with 11 1`] = `
+<div
+  className="column is-11-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with full 1`] = `
+<div
+  className="column is-full-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support fullhdSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-fullhd"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 1 1`] = `
+<div
+  className="column is-1-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 1/2 1`] = `
+<div
+  className="column is-half-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 2 1`] = `
+<div
+  className="column is-2-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 3 1`] = `
+<div
+  className="column is-3-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 4 1`] = `
+<div
+  className="column is-4-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 5 1`] = `
+<div
+  className="column is-5-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 6 1`] = `
+<div
+  className="column is-6-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 7 1`] = `
+<div
+  className="column is-7-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 8 1`] = `
+<div
+  className="column is-8-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 9 1`] = `
+<div
+  className="column is-9-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 10 1`] = `
+<div
+  className="column is-10-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with 11 1`] = `
+<div
+  className="column is-11-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with full 1`] = `
+<div
+  className="column is-full-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support mobileSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 1 1`] = `
+<div
+  className="column is-offset-1"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 2 1`] = `
+<div
+  className="column is-offset-2"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 3 1`] = `
+<div
+  className="column is-offset-3"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 4 1`] = `
+<div
+  className="column is-offset-4"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 5 1`] = `
+<div
+  className="column is-offset-5"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 6 1`] = `
+<div
+  className="column is-offset-6"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 7 1`] = `
+<div
+  className="column is-offset-7"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 8 1`] = `
+<div
+  className="column is-offset-8"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 9 1`] = `
+<div
+  className="column is-offset-9"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 10 1`] = `
+<div
+  className="column is-offset-10"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with 11 1`] = `
+<div
+  className="column is-offset-11"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with full 1`] = `
+<div
+  className="column is-offset-full"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support offset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 1 1`] = `
+<div
+  className="column is-1"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 1/2 1`] = `
 <div
   className="column is-half"
 >
@@ -20,9 +1570,1519 @@ exports[`<Column /> component should support isHalf prop 1`] = `
 </div>
 `;
 
-exports[`<Column /> component should support isOneThird prop 1`] = `
+exports[`<Column /> component should support size prop with 1/3 1`] = `
 <div
   className="column is-one-third"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 2 1`] = `
+<div
+  className="column is-2"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 3 1`] = `
+<div
+  className="column is-3"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 4 1`] = `
+<div
+  className="column is-4"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 5 1`] = `
+<div
+  className="column is-5"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 6 1`] = `
+<div
+  className="column is-6"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 7 1`] = `
+<div
+  className="column is-7"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 8 1`] = `
+<div
+  className="column is-8"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 9 1`] = `
+<div
+  className="column is-9"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 10 1`] = `
+<div
+  className="column is-10"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with 11 1`] = `
+<div
+  className="column is-11"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with full 1`] = `
+<div
+  className="column is-full"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support size prop with narrow 1`] = `
+<div
+  className="column is-narrow"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 1 1`] = `
+<div
+  className="column is-1-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 1/2 1`] = `
+<div
+  className="column is-half-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 2 1`] = `
+<div
+  className="column is-2-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 3 1`] = `
+<div
+  className="column is-3-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 4 1`] = `
+<div
+  className="column is-4-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 5 1`] = `
+<div
+  className="column is-5-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 6 1`] = `
+<div
+  className="column is-6-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 7 1`] = `
+<div
+  className="column is-7-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 8 1`] = `
+<div
+  className="column is-8-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 9 1`] = `
+<div
+  className="column is-9-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 10 1`] = `
+<div
+  className="column is-10-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with 11 1`] = `
+<div
+  className="column is-11-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with full 1`] = `
+<div
+  className="column is-full-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support tabletSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-tablet"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-mobile"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 1 1`] = `
+<div
+  className="column is-1-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 1/2 1`] = `
+<div
+  className="column is-half-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 2 1`] = `
+<div
+  className="column is-2-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 3 1`] = `
+<div
+  className="column is-3-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 4 1`] = `
+<div
+  className="column is-4-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 5 1`] = `
+<div
+  className="column is-5-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 6 1`] = `
+<div
+  className="column is-6-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 7 1`] = `
+<div
+  className="column is-7-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 8 1`] = `
+<div
+  className="column is-8-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 9 1`] = `
+<div
+  className="column is-9-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 10 1`] = `
+<div
+  className="column is-10-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with 11 1`] = `
+<div
+  className="column is-11-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with full 1`] = `
+<div
+  className="column is-full-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support touchSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-touch"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 1 1`] = `
+<div
+  className="column is-offset-1-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 1/2 1`] = `
+<div
+  className="column is-offset-half-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 1/3 1`] = `
+<div
+  className="column is-offset-one-third-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 1/4 1`] = `
+<div
+  className="column is-offset-one-quarter-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 1/5 1`] = `
+<div
+  className="column is-offset-one-fifth-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 2 1`] = `
+<div
+  className="column is-offset-2-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 2/3 1`] = `
+<div
+  className="column is-offset-two-thirds-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 2/5 1`] = `
+<div
+  className="column is-offset-two-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 3 1`] = `
+<div
+  className="column is-offset-3-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 3/4 1`] = `
+<div
+  className="column is-offset-three-quarters-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 3/5 1`] = `
+<div
+  className="column is-offset-three-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 4 1`] = `
+<div
+  className="column is-offset-4-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 4/5 1`] = `
+<div
+  className="column is-offset-four-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 5 1`] = `
+<div
+  className="column is-offset-5-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 6 1`] = `
+<div
+  className="column is-offset-6-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 7 1`] = `
+<div
+  className="column is-offset-7-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 8 1`] = `
+<div
+  className="column is-offset-8-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 9 1`] = `
+<div
+  className="column is-offset-9-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 10 1`] = `
+<div
+  className="column is-offset-10-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with 11 1`] = `
+<div
+  className="column is-offset-11-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with full 1`] = `
+<div
+  className="column is-offset-full-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenOffset prop with narrow 1`] = `
+<div
+  className="column is-offset-narrow-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 1 1`] = `
+<div
+  className="column is-1-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 1/2 1`] = `
+<div
+  className="column is-half-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 1/3 1`] = `
+<div
+  className="column is-one-third-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 1/4 1`] = `
+<div
+  className="column is-one-quarter-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 1/5 1`] = `
+<div
+  className="column is-one-fifth-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 2 1`] = `
+<div
+  className="column is-2-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 2/3 1`] = `
+<div
+  className="column is-two-thirds-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 2/5 1`] = `
+<div
+  className="column is-two-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 3 1`] = `
+<div
+  className="column is-3-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 3/4 1`] = `
+<div
+  className="column is-three-quarters-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 3/5 1`] = `
+<div
+  className="column is-three-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 4 1`] = `
+<div
+  className="column is-4-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 4/5 1`] = `
+<div
+  className="column is-four-fifths-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 5 1`] = `
+<div
+  className="column is-5-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 6 1`] = `
+<div
+  className="column is-6-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 7 1`] = `
+<div
+  className="column is-7-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 8 1`] = `
+<div
+  className="column is-8-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 9 1`] = `
+<div
+  className="column is-9-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 10 1`] = `
+<div
+  className="column is-10-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with 11 1`] = `
+<div
+  className="column is-11-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with full 1`] = `
+<div
+  className="column is-full-widescreen"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Column /> component should support widescreenSize prop with narrow 1`] = `
+<div
+  className="column is-narrow-widescreen"
 >
   <div>
     Some content
