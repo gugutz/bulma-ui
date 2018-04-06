@@ -19,7 +19,8 @@
     "clean": "rimraf dist",
     "build": "rollup -c",
     "precommit": "npm test && npm run lint",
-    "prepublish": "npm run clean && npm test && npm run lint && npm run build"
+    "prepublish": "npm run clean && npm test && npm run lint && npm run build",
+    "styleguide": "styleguidist build"
   },
   "repository": {
     "type": "git",
@@ -47,8 +48,10 @@
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-plugin-external-helpers": "^6.22.0",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
+    "bulma": "^0.6.2",
     "coveralls": "^3.0.0",
     "eslint": "^4.19.1",
     "eslint-config-xo-react": "^0.16.0",
@@ -57,11 +60,15 @@
     "jest": "^22.4.3",
     "prettier": "^1.11.1",
     "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-styleguidist": "^7.0.4",
     "react-test-renderer": "^16.3.1",
     "rimraf": "^2.6.2",
     "rollup": "^0.57.1",
     "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-filesize": "^1.5.0",
+    "webpack": "^3.11.0",
+    "webpack-blocks": "^1.0.0",
     "xo": "^0.20.3"
   },
   "prettier": {
