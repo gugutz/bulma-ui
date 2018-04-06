@@ -100,6 +100,10 @@
 - [ ] PanelBlock
 - [ ] Tabs
 
+## Contributing
+
+See the [contributing file](CONTRIBUTING.md).
+
 ## License
 
 [Apache License, Version 2.0](LICENSE.md) © [Thiago Santos](https://github.com/thiamsantos)
