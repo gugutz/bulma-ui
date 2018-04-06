@@ -7,7 +7,7 @@
 > Bulma components for React
 
 ## TODO
-- [ ] Columns
+- [x] Columns
 - [ ] Column
 - [ ] Container
 - [ ] Level

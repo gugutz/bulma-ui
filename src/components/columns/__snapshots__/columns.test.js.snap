@@ -10,9 +10,39 @@ exports[`<Columns /> component should render correctly 1`] = `
 </div>
 `;
 
+exports[`<Columns /> component should support gap prop 1`] = `
+<div
+  className="columns is-variable is-0"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
 exports[`<Columns /> component should support isCentered prop 1`] = `
 <div
   className="columns is-centered"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Columns /> component should support isDesktop prop 1`] = `
+<div
+  className="columns is-desktop"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Columns /> component should support isMobile prop 1`] = `
+<div
+  className="columns is-mobile"
 >
   <div>
     Some content

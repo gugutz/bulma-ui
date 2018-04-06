@@ -24,4 +24,37 @@ describe('<Columns /> component', () => {
       .toJSON()
     expect(tree).toMatchSnapshot()
   })
+
+  it('should support isMobile prop', () => {
+    const tree = renderer
+      .create(
+        <Columns isMobile>
+          <div>Some content</div>
+        </Columns>
+      )
+      .toJSON()
+    expect(tree).toMatchSnapshot()
+  })
+
+  it('should support isDesktop prop', () => {
+    const tree = renderer
+      .create(
+        <Columns isDesktop>
+          <div>Some content</div>
+        </Columns>
+      )
+      .toJSON()
+    expect(tree).toMatchSnapshot()
+  })
+
+  it('should support gap prop', () => {
+    const tree = renderer
+      .create(
+        <Columns gap={0}>
+          <div>Some content</div>
+        </Columns>
+      )
+      .toJSON()
+    expect(tree).toMatchSnapshot()
+  })
 })
