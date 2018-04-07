@@ -1,6 +1,5 @@
 [Checkout Bulma documentation](https://bulma.io/documentation/columns/basics/).
 
-
 ### Import 
 
 ```jsx static

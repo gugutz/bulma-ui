@@ -24,34 +24,6 @@ const sizesMap = {
 
 export const sizes = Object.keys(sizesMap)
 
-const breakpoints = [
-  'mobile',
-  'tablet',
-  'touch',
-  'desktop',
-  'widescreen',
-  'fullhd'
-]
-
-export const propNames = breakpoints.reduce(
-  (acc, current) => {
-    acc.push(`${current}Size`)
-    acc.push(`${current}Offset`)
-    return acc
-  },
-  ['size', 'offset']
-)
-
-const propTypes = propNames.reduce((acc, current) => {
-  acc[current] = PropTypes.oneOf(sizes)
-  return acc
-}, {})
-
-const defaultProps = propNames.reduce((acc, current) => {
-  acc[current] = null
-  return acc
-}, {})
-
 const Column = ({
   children,
   size,
@@ -96,9 +68,37 @@ const Column = ({
 
 Column.propTypes = {
   children: PropTypes.node.isRequired,
-  ...propTypes
+  size: PropTypes.oneOf(sizes),
+  mobileSize: PropTypes.oneOf(sizes),
+  tabletSize: PropTypes.oneOf(sizes),
+  touchSize: PropTypes.oneOf(sizes),
+  desktopSize: PropTypes.oneOf(sizes),
+  widescreenSize: PropTypes.oneOf(sizes),
+  fullhdSize: PropTypes.oneOf(sizes),
+  offset: PropTypes.oneOf(sizes),
+  mobileOffset: PropTypes.oneOf(sizes),
+  tabletOffset: PropTypes.oneOf(sizes),
+  touchOffset: PropTypes.oneOf(sizes),
+  desktopOffset: PropTypes.oneOf(sizes),
+  widescreenOffset: PropTypes.oneOf(sizes),
+  fullhdOffset: PropTypes.oneOf(sizes)
 }
 
-Column.defaultProps = defaultProps
+Column.defaultProps = {
+  size: null,
+  mobileSize: null,
+  tabletSize: null,
+  touchSize: null,
+  desktopSize: null,
+  widescreenSize: null,
+  fullhdSize: null,
+  offset: null,
+  mobileOffset: null,
+  tabletOffset: null,
+  touchOffset: null,
+  desktopOffset: null,
+  widescreenOffset: null,
+  fullhdOffset: null
+}
 
 export default Column

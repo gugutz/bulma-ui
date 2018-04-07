@@ -45,7 +45,7 @@
   "peerDependencies": {
     "react": ">=16"
   },
-  "homepage": "https://github.com/thiamsantos/bulma-ui#readme",
+  "homepage": "https://bulma-ui.netlify.com/",
   "dependencies": {
     "prop-types": "^15.6.1"
   },

@@ -1,6 +1,6 @@
 import React from 'react'
 import renderer from 'react-test-renderer'
-import {default as Column, sizes, propNames} from './column'
+import {default as Column, sizes} from './column'
 
 describe('<Column /> component', () => {
   it('should render correctly', () => {
@@ -13,6 +13,24 @@ describe('<Column /> component', () => {
       .toJSON()
     expect(tree).toMatchSnapshot()
   })
+
+  const breakpoints = [
+    'mobile',
+    'tablet',
+    'touch',
+    'desktop',
+    'widescreen',
+    'fullhd'
+  ]
+
+  const propNames = breakpoints.reduce(
+    (acc, current) => {
+      acc.push(`${current}Size`)
+      acc.push(`${current}Offset`)
+      return acc
+    },
+    ['size', 'offset']
+  )
 
   for (const size of sizes) {
     for (const propName of propNames) {
