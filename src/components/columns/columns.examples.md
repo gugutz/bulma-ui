@@ -1,18 +1,24 @@
 [Checkout Bulma documentation](https://bulma.io/documentation/columns/basics/).
 
-### Import 
-
-```jsx static
-import {Columns} from 'bulma-ui'
-```
-
 ### Basic Usage
 
 ```jsx
 <Columns>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -20,7 +26,11 @@ import {Columns} from 'bulma-ui'
 
 ```jsx
 <Columns isCentered>
-  <Column size="1/2">Single column</Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      Single column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -31,9 +41,21 @@ If you want columns to work on mobile too, just add the `isMobile` prop on the `
 
 ```jsx
 <Columns isMobile>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -43,9 +65,21 @@ If you only want columns on desktop upwards, just use the `isDesktop` prop on th
 
 ```jsx
 <Columns isDesktop>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -53,9 +87,21 @@ If you only want columns on desktop upwards, just use the `isDesktop` prop on th
 
 ```jsx
 <Columns isMultiline>
-  <Column size="1/2">First column</Column>
-  <Column size="1/2">Second column</Column>
-  <Column size="1/2">Third column</Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -65,9 +111,21 @@ If you want to remove the space between the columns, add the `isGapless`  prop o
 
 ```jsx
 <Columns isGapless>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -75,9 +133,21 @@ You can combine it with the multiline columns.
 
 ```jsx
 <Columns isMultiline isGapless>
-  <Column size="1/2">First column</Column>
-  <Column size="1/2">Second column</Column>
-  <Column size="1/2">Third column</Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+  <Column size="1/2">
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
@@ -88,16 +158,40 @@ You can specify a custom gap from 0 to 8. 0 will remove any gap. 3 is the defaul
 
 ```jsx
 <Columns gap={0}>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```
 
 ```jsx
 <Columns gap={8}>
-  <Column>First column</Column>
-  <Column>Second column</Column>
-  <Column>Third column</Column>
+  <Column>
+    <Notification isInfo>
+      First column
+    </Notification>
+  </Column>
+  <Column>
+    <Notification isInfo>
+      Second column
+    </Notification>
+  </Column>
+    <Column>
+    <Notification isInfo>
+      Third column
+    </Notification>
+  </Column>
 </Columns>
 ```

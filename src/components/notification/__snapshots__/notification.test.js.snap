@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Notification /> component should render correctly 1`] = `
+<div
+  className="notification"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isDanger prop 1`] = `
+<div
+  className="notification is-warning"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isInfo prop 1`] = `
+<div
+  className="notification is-info"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isLink prop 1`] = `
+<div
+  className="notification is-link"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isPrimary prop 1`] = `
+<div
+  className="notification is-primary"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isSuccess prop 1`] = `
+<div
+  className="notification is-success"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
+
+exports[`<Notification /> component should support isWarning prop 1`] = `
+<div
+  className="notification is-warning"
+>
+  <div>
+    Some content
+  </div>
+</div>
+`;
