@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Delete /> component should render correctly 1`] = `
+<button
+  className="delete"
+  type="button"
+/>
+`;
+
+exports[`<Delete /> component should support isLarge prop 1`] = `
+<button
+  className="delete is-large"
+  type="button"
+/>
+`;
+
+exports[`<Delete /> component should support isMedium prop 1`] = `
+<button
+  className="delete is-medium"
+  type="button"
+/>
+`;
+
+exports[`<Delete /> component should support isSmall prop 1`] = `
+<button
+  className="delete is-small"
+  type="button"
+/>
+`;
