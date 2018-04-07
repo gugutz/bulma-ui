@@ -1,0 +1,271 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> component should render correctly 1`] = `
+<button
+  className="button"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with black 1`] = `
+<button
+  className="button is-black"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with danger 1`] = `
+<button
+  className="button is-danger"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with dark 1`] = `
+<button
+  className="button is-dark"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with info 1`] = `
+<button
+  className="button is-info"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with light 1`] = `
+<button
+  className="button is-light"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with link 1`] = `
+<button
+  className="button is-link"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with primary 1`] = `
+<button
+  className="button is-primary"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with success 1`] = `
+<button
+  className="button is-success"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with text 1`] = `
+<button
+  className="button is-text"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with warning 1`] = `
+<button
+  className="button is-warning"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support color prop with white 1`] = `
+<button
+  className="button is-white"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support isInverted prop 1`] = `
+<button
+  className="button is-inverted"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support isOutlined prop 1`] = `
+<button
+  className="button is-outlined"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support isRounded prop 1`] = `
+<button
+  className="button is-rounded"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support isSelected prop 1`] = `
+<button
+  className="button is-selected"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support isStatic prop 1`] = `
+<button
+  className="button is-static"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support size prop with large 1`] = `
+<button
+  className="button is-large"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support size prop with medium 1`] = `
+<button
+  className="button is-medium"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support size prop with normal 1`] = `
+<button
+  className="button"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support size prop with small 1`] = `
+<button
+  className="button is-small"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support state prop with active 1`] = `
+<button
+  className="button is-active"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support state prop with focused 1`] = `
+<button
+  className="button is-focused"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support state prop with hovered 1`] = `
+<button
+  className="button is-hovered"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support state prop with loading 1`] = `
+<button
+  className="button is-loading"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support state prop with normal 1`] = `
+<button
+  className="button"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
+exports[`<Button /> component should support type prop 1`] = `
+<button
+  className="button"
+  disabled={false}
+  type="submit"
+>
+  text
+</button>
+`;
