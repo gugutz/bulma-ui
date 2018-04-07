@@ -6,99 +6,35 @@
 
 > Bulma components for React
 
-## TODO
-- [x] Columns
-- [x] Column
-- [ ] Container
-- [ ] Level
-- [ ] LevelLeft
-- [ ] LevelRight
-- [ ] LevelItem
-- [ ] Media
-- [ ] MediaLeft
-- [ ] MediaRight
-- [ ] MediaContent
-- [ ] Hero
-- [ ] HeroBody
-- [ ] HeroHead
-- [ ] HeroFoot
-- [ ] Section
-- [ ] Footer
-- [ ] Tile
-- [ ] Label
-- [ ] Input
-- [ ] Textarea
-- [ ] Select
-- [ ] Checkbox
-- [ ] Radio
-- [ ] Help
-- [ ] Field
-- [ ] Control
-- [ ] Icon
-- [ ] File
-- [ ] FileLabel
-- [ ] FileInput
-- [ ] FileCTA
-- [ ] FileIcon
-- [ ] FileLabel
-- [ ] FileName
-- [ ] Box
-- [ ] Button
-- [ ] Content
-- [ ] Delete
-- [ ] Image
-- [ ] Notification
-- [ ] Progress
-- [ ] Table
-- [ ] Tag
-- [ ] Title
-- [ ] Subtitle
-- [ ] Breadcrumb
-- [ ] Card
-- [ ] CardHeader
-- [ ] CardHeaderTitle
-- [ ] CardHeaderIcon
-- [ ] CardImage
-- [ ] CardContent
-- [ ] CardFooter
-- [ ] CardFooterItem
-- [ ] Dropdown
-- [ ] DropdownTrigger
-- [ ] DropdownMenu
-- [ ] DropdownContent
-- [ ] DropdownItem
-- [ ] DropdownDivider
-- [ ] Menu
-- [ ] MenuLabel
-- [ ] MenuList
-- [ ] Message
-- [ ] MessageHeader
-- [ ] MessageBody
-- [ ] Modal
-- [ ] ModalBackground
-- [ ] ModalContent
-- [ ] ModalClose
-- [ ] Navbar
-- [ ] NavbarBrand
-- [ ] NavbarBurger
-- [ ] NavbarMenu
-- [ ] NavbarStart
-- [ ] NavbarEnd
-- [ ] NavbarItem
-- [ ] NavbarLink
-- [ ] NavbarDropdown
-- [ ] NavbarDivider
-- [ ] Pagination
-- [ ] PaginationPrevious
-- [ ] PaginationNext
-- [ ] PaginationList
-- [ ] PaginationLink
-- [ ] PaginationEllipsis
-- [ ] Panel
-- [ ] PanelHeading
-- [ ] PanelTabs
-- [ ] PanelBlock
-- [ ] Tabs
+[Bulma](https://bulma.io/) components built with [React](https://reactjs.org/).
+This repository is heavily under development and unstable. [See how is the progress of the creation of the components](https://github.com/thiamsantos/bulma-ui/issues/1).
+
+## Table of Contents
+
+- [Install](#install)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Install
+
+This project uses [node](http://nodejs.org) and [npm](https://npmjs.com).
+Go check them out if you don't have them locally installed.
+
+```sh
+$ npm install --save bulma-ui
+```
+
+Make sure to include the Bulma CSS file on your project. You can either do that by using a cdn or importing the npm package.
+
+## Usage
+
+[Checkout the docs](http://bulma-ui.netlify.com/).
+
+## Credits
+
+All the credits go to @jgthms for creating [Bulma](https://bulma.io/).
 
 ## Contributing
 
