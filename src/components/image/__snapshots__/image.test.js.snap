@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Image /> component should render correctly 1`] = `
+<figure
+  className="image"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 1by1 1`] = `
+<figure
+  className="image is-1by1"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 1by2 1`] = `
+<figure
+  className="image is-1by2"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 1by3 1`] = `
+<figure
+  className="image is-1by3"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 2by1 1`] = `
+<figure
+  className="image is-2by1"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 2by3 1`] = `
+<figure
+  className="image is-2by3"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 3by1 1`] = `
+<figure
+  className="image is-3by1"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 3by2 1`] = `
+<figure
+  className="image is-3by2"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 3by4 1`] = `
+<figure
+  className="image is-3by4"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 3by5 1`] = `
+<figure
+  className="image is-3by5"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 4by3 1`] = `
+<figure
+  className="image is-4by3"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 4by5 1`] = `
+<figure
+  className="image is-4by5"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 5by3 1`] = `
+<figure
+  className="image is-5by3"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 5by4 1`] = `
+<figure
+  className="image is-5by4"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 9by16 1`] = `
+<figure
+  className="image is-9by16"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 16by9 1`] = `
+<figure
+  className="image is-16by9"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 16x16 1`] = `
+<figure
+  className="image is-16x16"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 24x24 1`] = `
+<figure
+  className="image is-24x24"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 48x48 1`] = `
+<figure
+  className="image is-48x48"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 64x64 1`] = `
+<figure
+  className="image is-64x64"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 96x96 1`] = `
+<figure
+  className="image is-96x96"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with 128x128 1`] = `
+<figure
+  className="image is-128x128"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
+
+exports[`<Image /> component should support size prop with square 1`] = `
+<figure
+  className="image is-square"
+>
+  <img
+    alt="something"
+    src="https://bulma.io/images/placeholders/128x128.png"
+  />
+</figure>
+`;
