@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Container /> component should render correctly 1`] = `
+<div
+  className="container"
+>
+  <div>
+    some content here
+  </div>
+</div>
+`;
+
+exports[`<Container /> component should support isFluid prop 1`] = `
+<div
+  className="container is-fluid"
+>
+  <div>
+    some content here
+  </div>
+</div>
+`;
+
+exports[`<Container /> component should support isFullhd prop 1`] = `
+<div
+  className="container is-fullhd"
+>
+  <div>
+    some content here
+  </div>
+</div>
+`;
+
+exports[`<Container /> component should support isWidescreen prop 1`] = `
+<div
+  className="container is-widescreen"
+>
+  <div>
+    some content here
+  </div>
+</div>
+`;
