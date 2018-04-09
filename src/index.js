@@ -1,3 +1,5 @@
+export {default as Box} from './components/box/box'
+export {default as Button} from './components/button/button'
 export {default as Columns} from './components/columns/columns'
 export {default as Column} from './components/column/column'
 export {default as Delete} from './components/delete/delete'
