@@ -120,6 +120,16 @@ exports[`<Button /> component should support color prop with white 1`] = `
 </button>
 `;
 
+exports[`<Button /> component should support isFullWidth prop 1`] = `
+<button
+  className="button is-fullwidth"
+  disabled={false}
+  type="button"
+>
+  text
+</button>
+`;
+
 exports[`<Button /> component should support isInverted prop 1`] = `
 <button
   className="button is-inverted"

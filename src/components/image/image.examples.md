@@ -8,7 +8,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
 <Image 
   size="128x128"
   alt="alternate text"
-  src="http://bulma.io/images/placeholders/128x128.png" 
+  src="https://bulma.io/images/placeholders/128x128.png" 
 />
 ```
 
@@ -19,42 +19,42 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="16x16" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/16x16.png" 
+    src="https://bulma.io/images/placeholders/16x16.png" 
   />
 
   <br />
   <Image
     size="24x24" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/24x24.png" 
+    src="https://bulma.io/images/placeholders/24x24.png" 
   />
 
   <br />
   <Image
     size="48x48" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/48x48.png" 
+    src="https://bulma.io/images/placeholders/48x48.png" 
   />
 
   <br />
   <Image
     size="64x64" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/64x64.png" 
+    src="https://bulma.io/images/placeholders/64x64.png" 
   />
 
   <br />
   <Image
     size="96x96" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/96x96.png" 
+    src="https://bulma.io/images/placeholders/96x96.png" 
   />
 
   <br />
   <Image
     size="128x128" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/128x128.png" 
+    src="https://bulma.io/images/placeholders/128x128.png" 
   />
 </div>
 ```
@@ -67,7 +67,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="square" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -75,7 +75,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="1by1" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -83,7 +83,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="5by4" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -91,7 +91,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="4by3" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -99,7 +99,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="3by2" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -107,7 +107,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="5by3" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -115,7 +115,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="16by9" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -123,7 +123,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="2by1" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -131,7 +131,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="3by1" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -139,7 +139,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="4by5" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -147,7 +147,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="3by4" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -155,7 +155,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="2by3" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -163,7 +163,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="3by5" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -171,7 +171,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="9by16" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -179,7 +179,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="1by2" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 
   <br />
@@ -187,7 +187,7 @@ Because images can take a few seconds to load (or not at all), use the `Image` c
   <Image
     size="1by3" 
     alt="alternate text"
-    src="http://bulma.io/images/placeholders/empty.png" 
+    src="https://bulma.io/images/placeholders/empty.png" 
   />
 </div>
 ```

@@ -76,4 +76,9 @@ describe('<Button /> component', () => {
     const tree = renderer.create(<Button isSelected>text</Button>).toJSON()
     expect(tree).toMatchSnapshot()
   })
+
+  it('should support isFullWidth prop', () => {
+    const tree = renderer.create(<Button isFullWidth>text</Button>).toJSON()
+    expect(tree).toMatchSnapshot()
+  })
 })

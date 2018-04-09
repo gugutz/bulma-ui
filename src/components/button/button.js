@@ -14,6 +14,7 @@ const Button = ({
   isStatic,
   isDisabled,
   isSelected,
+  isFullWidth,
   ...props
 }) => (
   // eslint-disable-next-line react/button-has-type
@@ -42,7 +43,8 @@ const Button = ({
       'is-active': state === 'active',
       'is-loading': state === 'loading',
       'is-static': isStatic,
-      'is-selected': isSelected
+      'is-selected': isSelected,
+      'is-fullwidth': isFullWidth
     })}
     disabled={isDisabled}
     {...props}
@@ -74,7 +76,8 @@ Button.propTypes = {
   state: PropTypes.oneOf(['normal', 'hovered', 'focused', 'active', 'loading']),
   isStatic: PropTypes.bool,
   isDisabled: PropTypes.bool,
-  isSelected: PropTypes.bool
+  isSelected: PropTypes.bool,
+  isFullWidth: PropTypes.bool
 }
 
 Button.defaultProps = {
@@ -87,7 +90,8 @@ Button.defaultProps = {
   state: 'normal',
   isStatic: false,
   isDisabled: false,
-  isSelected: false
+  isSelected: false,
+  isFullWidth: false
 }
 
 export default Button
