@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Section /> component should render correctly 1`] = `
+<div
+  className="section"
+>
+  text
+</div>
+`;
+
+exports[`<Section /> component should support size prop with large 1`] = `
+<div
+  className="section is-large"
+>
+  text
+</div>
+`;
+
+exports[`<Section /> component should support size prop with medium 1`] = `
+<div
+  className="section is-medium"
+>
+  text
+</div>
+`;
+
+exports[`<Section /> component should support size prop with normal 1`] = `
+<div
+  className="section"
+>
+  text
+</div>
+`;
