@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Message /> component should render correctly 1`] = `
+<article
+  className="message"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with danger 1`] = `
+<article
+  className="message is-danger"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with dark 1`] = `
+<article
+  className="message is-dark"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with info 1`] = `
+<article
+  className="message is-info"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with link 1`] = `
+<article
+  className="message is-link"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with primary 1`] = `
+<article
+  className="message is-primary"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with success 1`] = `
+<article
+  className="message is-success"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support color prop with warning 1`] = `
+<article
+  className="message is-warning"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support size prop with large 1`] = `
+<article
+  className="message is-large"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support size prop with medium 1`] = `
+<article
+  className="message is-medium"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support size prop with normal 1`] = `
+<article
+  className="message"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
+
+exports[`<Message /> component should support size prop with small 1`] = `
+<article
+  className="message is-small"
+>
+  <div
+    className="message-header"
+  >
+    header
+  </div>
+  <div
+    className="message-body"
+  >
+    text
+  </div>
+</article>
+`;
