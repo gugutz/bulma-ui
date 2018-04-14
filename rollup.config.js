@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import babel from 'rollup-plugin-babel'
+import uglify from 'rollup-plugin-uglify'
 import filesize from 'rollup-plugin-filesize'
 
 const pkg = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'package.json')))
@@ -14,7 +15,8 @@ export default [
         plugins: ['external-helpers'],
         presets: [['env', {modules: false}], 'react', 'stage-0']
       }),
-      filesize()
+      filesize(),
+      uglify()
     ],
     external: ['prop-types', 'react'],
     output: [
