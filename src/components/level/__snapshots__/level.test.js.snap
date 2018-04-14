@@ -1,0 +1,141 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Level /> component Item should support hasTextCentered prop 1`] = `
+<div
+  className="level is-mobile"
+>
+  <div
+    className="level-left"
+  >
+    <div
+      className="level-item has-text-centered"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+  <div
+    className="level-right"
+  >
+    <div
+      className="level-item has-text-centered"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Level /> component Item should support isNarrow prop 1`] = `
+<div
+  className="level is-mobile"
+>
+  <div
+    className="level-left"
+  >
+    <div
+      className="level-item is-narrow"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+  <div
+    className="level-right"
+  >
+    <div
+      className="level-item is-narrow"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Level /> component Level should support isMobile  1`] = `
+<div
+  className="level is-mobile"
+>
+  <div
+    className="level-left"
+  >
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+  <div
+    className="level-right"
+  >
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Level /> component should render correctly 1`] = `
+<div
+  className="level"
+>
+  <div
+    className="level-left"
+  >
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+  <div
+    className="level-right"
+  >
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+    <div
+      className="level-item"
+    >
+      item
+    </div>
+  </div>
+</div>
+`;
