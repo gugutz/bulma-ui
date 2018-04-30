@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Media /> component should render correctly 1`] = `
+<div
+  className="media"
+>
+  <div
+    className="media-left"
+  >
+    <div>
+      something
+    </div>
+  </div>
+  <div
+    className="media-content"
+  >
+    <div>
+      something
+    </div>
+  </div>
+  <div
+    className="media-right"
+  >
+    <div>
+      something
+    </div>
+  </div>
+</div>
+`;
