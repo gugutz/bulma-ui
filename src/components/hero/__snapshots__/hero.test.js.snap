@@ -1,0 +1,155 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Hero /> component should render correctly 1`] = `
+<div
+  className="hero"
+>
+  <div
+    className="hero-head"
+  >
+    header
+  </div>
+  <div
+    className="hero-body"
+  >
+    body
+  </div>
+  <div
+    className="hero-foot"
+  >
+    footer
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with danger 1`] = `
+<div
+  className="hero is-danger"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with dark 1`] = `
+<div
+  className="hero is-dark"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with info 1`] = `
+<div
+  className="hero is-info"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with light 1`] = `
+<div
+  className="hero is-light"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with primary 1`] = `
+<div
+  className="hero is-primary"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with success 1`] = `
+<div
+  className="hero is-success"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support color prop with warning 1`] = `
+<div
+  className="hero is-warning"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support isBold prop 1`] = `
+<div
+  className="hero is-bold"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support size prop with fullheight 1`] = `
+<div
+  className="hero is-fullheight"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support size prop with large 1`] = `
+<div
+  className="hero is-large"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
+
+exports[`<Hero /> component should support size prop with medium 1`] = `
+<div
+  className="hero is-medium"
+>
+  <div
+    className="hero-body"
+  >
+    text
+  </div>
+</div>
+`;
