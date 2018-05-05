@@ -6,6 +6,8 @@
 <Progress value={15}/>
 ```
 
+### Colors
+
 ```jsx
 <Progress color="primary" value={15} />
 <Progress color="link" value={30} />
