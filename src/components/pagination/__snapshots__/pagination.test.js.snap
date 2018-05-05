@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Pagination /> component should render correctly 1`] = `
+<nav
+  aria-label="pagination"
+  className="pagination"
+  role="navigation"
+>
+  <a
+    className="pagination-previous"
+  >
+    Previous
+  </a>
+  <a
+    className="pagination-next"
+  >
+    Next page
+  </a>
+  <ul
+    className="pagination-list"
+  >
+    <li>
+      <a
+        className="pagination-link"
+      >
+        1
+      </a>
+    </li>
+    <li>
+      <span
+        className="pagination-ellipsis"
+      >
+        …
+      </span>
+    </li>
+    <li>
+      <a
+        className="pagination-link"
+      >
+        45
+      </a>
+    </li>
+    <li>
+      <a
+        className="pagination-link is-current"
+      >
+        46
+      </a>
+    </li>
+    <li>
+      <a
+        className="pagination-link"
+      >
+        47
+      </a>
+    </li>
+    <li>
+      <span
+        className="pagination-ellipsis"
+      >
+        …
+      </span>
+    </li>
+    <li>
+      <a
+        className="pagination-link"
+      >
+        86
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`<Pagination /> component should support isRounded prop 1`] = `
+<nav
+  className="pagination is-rounded"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support position prop with center 1`] = `
+<nav
+  className="pagination is-centered"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support position prop with left 1`] = `
+<nav
+  className="pagination"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support position prop with right 1`] = `
+<nav
+  className="pagination is-right"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support size prop with large 1`] = `
+<nav
+  className="pagination is-large"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support size prop with medium 1`] = `
+<nav
+  className="pagination is-medium"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support size prop with normal 1`] = `
+<nav
+  className="pagination"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
+
+exports[`<Pagination /> component should support size prop with small 1`] = `
+<nav
+  className="pagination is-small"
+>
+  <div>
+    children
+  </div>
+</nav>
+`;
