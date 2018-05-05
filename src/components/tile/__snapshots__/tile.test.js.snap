@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tile /> component should render correctly 1`] = `
+<div
+  className="tile is-ancestor"
+>
+  <div
+    className="tile is-vertical is-8"
+  >
+    <div
+      className="tile"
+    >
+      <div
+        className="tile is-parent is-vertical"
+      >
+        <div
+          className="tile is-child"
+        >
+          <div
+            className="box"
+          >
+            Put any content you want
+          </div>
+        </div>
+        <div
+          className="tile is-child"
+        >
+          <div
+            className="box"
+          >
+            Put any content you want
+          </div>
+        </div>
+      </div>
+      <div
+        className="tile is-parent"
+      >
+        <div
+          className="tile is-child"
+        >
+          <div
+            className="box"
+          >
+            Put any content you want
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="tile is-parent"
+    >
+      <div
+        className="tile is-child"
+      >
+        <div
+          className="box"
+        >
+          Put any content you want
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="tile is-parent"
+  >
+    <div
+      className="tile is-child"
+    >
+      <div
+        className="box"
+      >
+        Put any content you want
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 1 1`] = `
+<div
+  className="tile is-1"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 2 1`] = `
+<div
+  className="tile is-2"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 3 1`] = `
+<div
+  className="tile is-3"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 4 1`] = `
+<div
+  className="tile is-4"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 5 1`] = `
+<div
+  className="tile is-5"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 6 1`] = `
+<div
+  className="tile is-6"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 7 1`] = `
+<div
+  className="tile is-7"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 8 1`] = `
+<div
+  className="tile is-8"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 9 1`] = `
+<div
+  className="tile is-9"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 10 1`] = `
+<div
+  className="tile is-10"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 11 1`] = `
+<div
+  className="tile is-11"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
+
+exports[`<Tile /> component should support size prop with 12 1`] = `
+<div
+  className="tile is-12"
+>
+  <div
+    className="box"
+  >
+    Put any content you want
+  </div>
+</div>
+`;
