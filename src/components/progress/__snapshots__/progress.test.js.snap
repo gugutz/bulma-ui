@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Progress /> component should render correctly 1`] = `
+<progress
+  className="progress"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with danger 1`] = `
+<progress
+  className="progress is-danger"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with info 1`] = `
+<progress
+  className="progress is-info"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with link 1`] = `
+<progress
+  className="progress is-link"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with primary 1`] = `
+<progress
+  className="progress is-primary"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with success 1`] = `
+<progress
+  className="progress is-success"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support color prop with warning 1`] = `
+<progress
+  className="progress is-warning"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support size prop with large 1`] = `
+<progress
+  className="progress is-large"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support size prop with medium 1`] = `
+<progress
+  className="progress is-medium"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support size prop with normal 1`] = `
+<progress
+  className="progress"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
+
+exports[`<Progress /> component should support size prop with small 1`] = `
+<progress
+  className="progress is-small"
+  max="100"
+  value={60}
+>
+  60%
+</progress>
+`;
