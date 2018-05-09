@@ -1,0 +1,408 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Tabs /> component should render correctly 1`] = `
+<div
+  className="tabs"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support isBoxed prop 1`] = `
+<div
+  className="tabs is-boxed"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support isToggle prop 1`] = `
+<div
+  className="tabs is-toggle"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support isToggleRounded prop 1`] = `
+<div
+  className="tabs is-toggle is-toggle-rounded"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support position prop with center 1`] = `
+<div
+  className="tabs is-centered"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support position prop with left 1`] = `
+<div
+  className="tabs"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support position prop with right 1`] = `
+<div
+  className="tabs is-right"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support size prop with large 1`] = `
+<div
+  className="tabs is-large"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support size prop with medium 1`] = `
+<div
+  className="tabs is-medium"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support size prop with normal 1`] = `
+<div
+  className="tabs"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
+
+exports[`<Tabs /> component should support size prop with small 1`] = `
+<div
+  className="tabs is-small"
+>
+  <ul>
+    <li
+      className="is-active"
+    >
+      <a>
+        Pictures
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Music
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Videos
+      </a>
+    </li>
+    <li
+      className=""
+    >
+      <a>
+        Documents
+      </a>
+    </li>
+  </ul>
+</div>
+`;
