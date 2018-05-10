@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Checkbox /> component should render correctly 1`] = `
+<label
+  className="checkbox"
+  disabled={false}
+>
+  <input
+    disabled={false}
+    type="checkbox"
+  />
+  Remember me
+</label>
+`;
+
+exports[`<Checkbox /> component should support disabled prop 1`] = `
+<label
+  className="checkbox"
+  disabled={true}
+>
+  <input
+    disabled={true}
+    type="checkbox"
+  />
+  Remember me
+</label>
+`;

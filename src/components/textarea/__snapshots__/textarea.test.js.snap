@@ -1,0 +1,227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Textarea /> component should render correctly 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with danger 1`] = `
+<textarea
+  className="textarea is-danger"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with default 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with info 1`] = `
+<textarea
+  className="textarea is-info"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with primary 1`] = `
+<textarea
+  className="textarea is-primary"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with success 1`] = `
+<textarea
+  className="textarea is-success"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support color prop with warning 1`] = `
+<textarea
+  className="textarea is-warning"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support disabled prop 1`] = `
+<textarea
+  className="textarea"
+  disabled={true}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support isStatic prop 1`] = `
+<textarea
+  className="textarea is-static"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support other props from textarea 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  name="email"
+  placeholder="email@example.com"
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support readOnly prop 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={true}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support size prop with large 1`] = `
+<textarea
+  className="textarea is-large"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support size prop with medium 1`] = `
+<textarea
+  className="textarea is-medium"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support size prop with normal 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support size prop with small 1`] = `
+<textarea
+  className="textarea is-small"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support state prop with focused 1`] = `
+<textarea
+  className="textarea is-focused"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support state prop with hovered 1`] = `
+<textarea
+  className="textarea is-hovered"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support state prop with normal 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support type prop with email 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+  type="email"
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support type prop with password 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+  type="password"
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support type prop with tel 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+  type="tel"
+>
+  some content
+</textarea>
+`;
+
+exports[`<Textarea /> component should support type prop with text 1`] = `
+<textarea
+  className="textarea"
+  disabled={false}
+  readOnly={false}
+  type="text"
+>
+  some content
+</textarea>
+`;

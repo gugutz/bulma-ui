@@ -1,0 +1,411 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Select /> component should render correctly 1`] = `
+<div
+  className="select"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with danger 1`] = `
+<div
+  className="select is-danger"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with default 1`] = `
+<div
+  className="select"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with info 1`] = `
+<div
+  className="select is-info"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with primary 1`] = `
+<div
+  className="select is-primary"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with success 1`] = `
+<div
+  className="select is-success"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support color prop with warning 1`] = `
+<div
+  className="select is-warning"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support isRounded prop 1`] = `
+<div
+  className="select is-rounded"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support multiple prop as boolean 1`] = `
+<div
+  className="select is-multiple"
+>
+  <select
+    className=""
+    multiple={true}
+    size={true}
+  >
+    <option
+      value="Argentina"
+    >
+      Argentina
+    </option>
+    <option
+      value="Bolivia"
+    >
+      Bolivia
+    </option>
+    <option
+      value="Brazil"
+    >
+      Brazil
+    </option>
+    <option
+      value="Suriname"
+    >
+      Suriname
+    </option>
+    <option
+      value="Uruguay"
+    >
+      Uruguay
+    </option>
+    <option
+      value="Venezuela"
+    >
+      Venezuela
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support multiple prop with a value 1`] = `
+<div
+  className="select is-multiple"
+>
+  <select
+    className=""
+    multiple={true}
+    size="8"
+  >
+    <option
+      value="Argentina"
+    >
+      Argentina
+    </option>
+    <option
+      value="Bolivia"
+    >
+      Bolivia
+    </option>
+    <option
+      value="Brazil"
+    >
+      Brazil
+    </option>
+    <option
+      value="Suriname"
+    >
+      Suriname
+    </option>
+    <option
+      value="Uruguay"
+    >
+      Uruguay
+    </option>
+    <option
+      value="Venezuela"
+    >
+      Venezuela
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support other props from select 1`] = `
+<div
+  className="select"
+>
+  <select
+    className=""
+    multiple={false}
+    name="email"
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support size prop with large 1`] = `
+<div
+  className="select is-large"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support size prop with medium 1`] = `
+<div
+  className="select is-medium"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support size prop with normal 1`] = `
+<div
+  className="select"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support size prop with small 1`] = `
+<div
+  className="select is-small"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support state prop with focused 1`] = `
+<div
+  className="select"
+>
+  <select
+    className="is-focused"
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support state prop with hovered 1`] = `
+<div
+  className="select"
+>
+  <select
+    className="is-hovered"
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support state prop with loading 1`] = `
+<div
+  className="select is-loading"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;
+
+exports[`<Select /> component should support state prop with normal 1`] = `
+<div
+  className="select"
+>
+  <select
+    className=""
+    multiple={false}
+    size={false}
+  >
+    <option>
+      Select dropdown
+    </option>
+    <option>
+      With options
+    </option>
+  </select>
+</div>
+`;

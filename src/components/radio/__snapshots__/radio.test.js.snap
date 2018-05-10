@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Radio /> component should render correctly 1`] = `
+<label
+  className="radio"
+  disabled={false}
+>
+  <input
+    checked={false}
+    disabled={false}
+    name="something"
+    type="radio"
+  />
+  Remember me
+</label>
+`;
+
+exports[`<Radio /> component should support checked prop 1`] = `
+<label
+  className="radio"
+  disabled={false}
+>
+  <input
+    checked={true}
+    disabled={false}
+    name="something"
+    type="radio"
+  />
+  Remember me
+</label>
+`;
+
+exports[`<Radio /> component should support disabled prop 1`] = `
+<label
+  className="radio"
+  disabled={true}
+>
+  <input
+    checked={false}
+    disabled={true}
+    name="something"
+    type="radio"
+  />
+  Remember me
+</label>
+`;

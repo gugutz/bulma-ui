@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Input /> component should render correctly 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with danger 1`] = `
+<input
+  className="input is-danger"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with default 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with info 1`] = `
+<input
+  className="input is-info"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with primary 1`] = `
+<input
+  className="input is-primary"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with success 1`] = `
+<input
+  className="input is-success"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support color prop with warning 1`] = `
+<input
+  className="input is-warning"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support disabled prop 1`] = `
+<input
+  className="input"
+  disabled={true}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support isStatic prop 1`] = `
+<input
+  className="input is-static"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support other props from input 1`] = `
+<input
+  className="input"
+  disabled={false}
+  name="email"
+  placeholder="email@example.com"
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support readOnly prop 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={true}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support size prop with large 1`] = `
+<input
+  className="input is-large"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support size prop with medium 1`] = `
+<input
+  className="input is-medium"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support size prop with normal 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support size prop with small 1`] = `
+<input
+  className="input is-small"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support state prop with focused 1`] = `
+<input
+  className="input is-focused"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support state prop with hovered 1`] = `
+<input
+  className="input is-hovered"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support state prop with normal 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
+
+exports[`<Input /> component should support type prop with email 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="email"
+/>
+`;
+
+exports[`<Input /> component should support type prop with password 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="password"
+/>
+`;
+
+exports[`<Input /> component should support type prop with tel 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="tel"
+/>
+`;
+
+exports[`<Input /> component should support type prop with text 1`] = `
+<input
+  className="input"
+  disabled={false}
+  readOnly={false}
+  type="text"
+/>
+`;
