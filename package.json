@@ -50,6 +50,10 @@
     "prop-types": "^15.6.1"
   },
   "devDependencies": {
+    "@mdi/font": "^2.3.54",
+    "@webpack-blocks/assets": "^1.0.0",
+    "@webpack-blocks/babel": "^1.0.0",
+    "@webpack-blocks/webpack": "^1.0.0",
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-plugin-external-helpers": "^6.22.0",
@@ -64,9 +68,12 @@
     "eslint": "^4.19.1",
     "eslint-config-xo-react": "^0.16.0",
     "eslint-plugin-react": "^7.7.0",
+    "font-awesome": "^4.7.0",
     "http-server": "^0.11.1",
     "husky": "^0.14.3",
+    "ionicons": "^4.0.0",
     "jest": "^22.4.3",
+    "open-iconic": "^1.1.1",
     "prettier": "^1.11.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
@@ -78,7 +85,6 @@
     "rollup-plugin-filesize": "^1.5.0",
     "rollup-plugin-uglify": "^3.0.0",
     "webpack": "^3.11.0",
-    "webpack-blocks": "^1.0.0",
     "xo": "^0.20.3"
   },
   "prettier": {
