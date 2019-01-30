@@ -28,12 +28,14 @@ FA.propTypes = {
     '9x',
     '10x'
   ]),
-  isFixedWidth: PropTypes.bool
+  isFixedWidth: PropTypes.bool,
+  isBordered: PropTypes.bool
 }
 
 FA.defaultProps = {
   size: null,
-  isFixedWidth: false
+  isFixedWidth: false,
+  isBordered: false
 }
 
 export default FA
