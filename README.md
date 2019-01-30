@@ -1,13 +1,13 @@
 # bulma-ui
 
 [![npm (scoped)](https://img.shields.io/npm/v/bulma-ui.svg)](https://www.npmjs.com/package/bulma-ui)
-[![Travis](https://img.shields.io/travis/thiamsantos/bulma-ui.svg)](https://travis-ci.org/thiamsantos/bulma-ui)
-[![Coveralls](https://img.shields.io/coveralls/thiamsantos/bulma-ui.svg)](https://coveralls.io/github/thiamsantos/bulma-ui?branch=master)
+[![Travis](https://img.shields.io/travis/gugutz/bulma-ui.svg)](https://travis-ci.org/gugutz/bulma-ui)
+[![Coveralls](https://img.shields.io/coveralls/gugutz/bulma-ui.svg)](https://coveralls.io/github/gugutz/bulma-ui?branch=master)
 
 > Bulma components for React
 
 [Bulma](https://bulma.io/) components built with [React](https://reactjs.org/).
-This repository is heavily under development and unstable. [See how is the progress of the creation of the components](https://github.com/thiamsantos/bulma-ui/issues/1).
+This repository is heavily under development and unstable. [See how is the progress of the creation of the components](https://github.com/gugutz/bulma-ui/issues/1).
 
 ## Table of Contents
 
@@ -42,4 +42,4 @@ See the [contributing file](CONTRIBUTING.md).
 
 ## License
 
-[Apache License, Version 2.0](LICENSE.md) © [Thiago Santos](https://github.com/thiamsantos)
+[Apache License, Version 2.0](LICENSE.md) © [Gustavo P Borges](https://github.com/gugutz)

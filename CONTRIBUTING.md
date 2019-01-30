@@ -9,8 +9,8 @@ Use your best judgment, and feel free to propose changes to this document in a p
 This project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Reporting Issues
-Found a problem? Want a new feature? First of all see if your issue or idea has [already been reported](https://github.com/thiamsantos/bulma-ui/issues).
-If don't, just open a [new clear and descriptive issue](https://github.com/thiamsantos/bulma-ui/issues/new).
+Found a problem? Want a new feature? First of all see if your issue or idea has [already been reported](https://github.com/gugutz/bulma-ui/issues).
+If don't, just open a [new clear and descriptive issue](https://github.com/gugutz/bulma-ui/issues/new).
 
 ## Submitting pull requests
 Pull requests are the greatest contributions, so be sure they are focused in scope, and do avoid unrelated commits.
@@ -29,7 +29,7 @@ Pull requests are the greatest contributions, so be sure they are focused in sco
 
 After you had make a fork you will want to keep your fork up to date with the changes that may happen in this repository (upstream).
 
-- Configure the remote for your fork: `git remote add upstream https://github.com/thiamsantos/bulma-ui.git`
+- Configure the remote for your fork: `git remote add upstream https://github.com/gugutz/bulma-ui.git`
 - Fetch the branches and their respective commits from the upstream repository: `git fetch upstream`
 - Check out your fork's local master branch: `git checkout master`
 - Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes: `git merge upstream/master`

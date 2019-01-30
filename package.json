@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thiamsantos/bulma-ui.git"
+    "url": "git+https://github.com/gugutz/bulma-ui.git"
   },
   "keywords": [
     "bulma",
@@ -37,10 +37,10 @@
     "ui",
     "components"
   ],
-  "author": "Thiago Santos",
+  "author": "Gustavo P Borges",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/thiamsantos/bulma-ui/issues"
+    "url": "https://github.com/gugutz/bulma-ui/issues"
   },
   "peerDependencies": {
     "react": ">=16"
