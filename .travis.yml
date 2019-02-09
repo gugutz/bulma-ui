@@ -1,7 +1,6 @@
 language: node_js
 node_js:
   - '8'
-  - 'node'
 jobs:
   include:
     - stage: Lint and test
@@ -10,7 +9,6 @@ jobs:
     - script: npm run lint
       name: Lint
     - stage: deploy
-      node_js: 'node'
       if: branch = master
       name: Release to npm
       script: npm run semantic-release
