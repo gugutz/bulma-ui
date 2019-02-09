@@ -1,8 +1,18 @@
 language: node_js
 node_js:
   - '8'
-script:
-  - npm test
-  - npm run build
-after_script:
-  - npm run coveralls
+  - 'node'
+jobs:
+  include:
+    - stage: Lint and test
+      name: Test
+      script: npm test
+    - script: npm run lint
+      name: Lint
+    - stage: deploy
+      node_js: 'node'
+      if: branch = master
+      name: Release to npm
+      script: npm run semantic-release
+    - script: npm run coveralls
+      name: Coveralls

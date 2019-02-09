@@ -1,8 +1,10 @@
 # bulma-ui
 
 [![npm (scoped)](https://img.shields.io/npm/v/bulma-ui.svg)](https://www.npmjs.com/package/bulma-ui)
-[![Travis](https://img.shields.io/travis/gugutz/bulma-ui.svg)](https://travis-ci.org/gugutz/bulma-ui)
-[![Coveralls](https://img.shields.io/coveralls/gugutz/bulma-ui.svg)](https://coveralls.io/github/gugutz/bulma-ui?branch=master)
+[![dependencies status](https://img.shields.io/david/gugutz/bulma-ui.svg?style=flat)](https://david-dm.org/gugutz/bulma-ui)
+[![build status](https://img.shields.io/travis/gugutz/snabbx.svg)](https://travis-ci.com/gugutz/bulma-ui)
+[![coverage status](https://img.shields.io/coveralls/github/gugutz/bulma-ui.svg?style=flat)](https://coveralls.io/github/gugutz/bulma-ui?branch=master)
+[![semantic release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 > Bulma components for React
 

@@ -25,7 +25,8 @@
     "prepublish": "npm run clean && npm test && npm run lint && npm run build",
     "styleguide": "styleguidist build",
     "styleguide:watch": "styleguidist server",
-    "cm": "git-cz"
+    "cm": "git-cz",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
