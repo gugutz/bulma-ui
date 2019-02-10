@@ -1,6 +1,6 @@
 {
   "name": "bulma-ui",
-  "version": "0.17.0",
+  "version": "0.0.0-dev",
   "description": "Bulma components for React",
   "main": "dist/bulma-ui.js",
   "umd:main": "dist/bulma-ui.umd.js",
